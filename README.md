@@ -4,7 +4,7 @@ This program is a simplified version of a UNIX shell, which is a command line in
 
 ## Installation and Execution 
 
-Get the files from GitHub through your shell, move into the directory you have it in. Then you'll want to go into the src folder as well. 
+Get the files from GitHub and in your terminal/console move into the src folder of the project. 
 
 When you're in the src folder, compile the project with: 
 ``` bash
