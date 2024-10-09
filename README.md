@@ -10,7 +10,7 @@ When you're in the src folder, compile the project with:
 ``` bash
 javac cs131/pa1/filter/*.java cs131/pa1/filter/sequential/*.java 
 ```
-After it compiling, start the project with:
+After compiling, start the project with:
 ``` bash
 java cs131/pa1/filter/sequential/SequentialREPL
 ```
