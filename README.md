@@ -1,6 +1,4 @@
-# README 
-
-## Simplified/Sequential UNIX Shell 
+# README - Simplified/Sequential UNIX Shell 
 
 This program is a simplified version of a UNIX shell, which is a command line interpreter. It allows users to interact with a computer's operating system through a set of specific commands. This program was made for an Operating Systems class, and files we were told not to edit have not had any code or comments changed from the original files provided. 
 
